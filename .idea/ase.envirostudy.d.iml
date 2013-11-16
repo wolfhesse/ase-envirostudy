@@ -24,15 +24,25 @@
     <orderEntry type="library" scope="PROVIDED" name="bullet (v4.7.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.5.0.rc.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="cancan (v1.6.10, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capybara (v2.1.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="carrierwave (v0.9.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.0.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.2.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.6.3, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="database_cleaner (v1.2.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="date_validator (v0.7.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug_inspector (v0.0.2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise (v3.2.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="excon (v0.28.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.0.2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fabrication (v2.9.3, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v1.2.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="fastercsv (v1.5.5, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="figaro (v0.7.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fog (v1.18.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="formatador (v0.2.4, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="formtastic (v2.3.0.rc2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="haml (v4.0.4, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="has_scope (v0.6.0.rc, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
@@ -42,11 +52,16 @@
     <orderEntry type="library" scope="PROVIDED" name="inherited_resources (v1.4.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v3.0.4, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-ui-rails (v4.1.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="kaminari (v0.14.1, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.5.4, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.5.2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v4.7.5, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.8.2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-scp (v1.1.2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh (v2.7.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.5.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyamorous (v0.6.4, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
@@ -57,6 +72,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ransack (v1.1.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="responders (v1.0.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-hmac (v0.4.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby2ruby (v2.0.6, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby_parser (v3.2.2, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.12, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
@@ -74,6 +90,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.38, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uniform_notifier (v1.4.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="warden (v1.2.3, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xpath (v2.0.0, RVM: ruby-2.0.0-p247 [envirostudy]) [gem]" level="application" />
   </component>
 </module>
 
